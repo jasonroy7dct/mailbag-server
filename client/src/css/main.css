@@ -1,0 +1,64 @@
+/* the very top of the page */
+.appContainer {
+  display : grid;
+  grid-template-columns : 150px 1fr 240px;
+  grid-template-rows : 50px 1fr;
+  width : 100vw;
+  height : 100vh;
+}
+
+/* the toolbar up top. */
+.toolbar {
+  grid-column : 1 / 4;
+  grid-row : 1 / 1;
+  border-bottom : 1px solid #e0e0e0;
+  padding-top : 8px;
+  padding-left : 4px;
+}
+
+/* list of mailboxes on left. */
+.mailboxList {
+  grid-column : 1 / 1;
+  grid-row : 2 / 2;
+  border-right : 1px solid #e0e0e0;
+  padding-top : 6px;
+  padding-left : 4px;
+  overflow : auto;
+}
+
+/* The center area with message list and message and contact views. */
+.centerArea {
+  display : grid;
+  grid-template-rows : 200px 1fr;
+}
+
+/* The message list on the top of the center area. */
+.messageList {
+  border-bottom : 1px solid #e0e0e0;
+  grid-row : 1 / 1;
+  overflow : auto;
+}
+
+/* The container for the message and contact views below the message list. */
+.centerViews {
+  grid-row : 2 / 2;
+  padding-top : 4px;
+  padding-left : 4px;
+  padding-right : 4px;
+  overflow : auto;
+}
+
+/* The contact list on the right. */
+.contactList {
+  grid-column : 3 / 3;
+  grid-row : 2 / 2;
+  border-left : 1px solid #e0e0e0;
+  padding-top : 4px;
+  padding-left : 4px;
+  overflow : auto;
+}
+
+/* styling on the TextFields */
+.messageInfoField {
+  color : #000000;
+}

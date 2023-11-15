@@ -1,0 +1,18 @@
+{
+  "smtp": {
+    "host": "smtp-mail.outlook.com",
+    "port": 587,
+    "auth": {
+      "user": "pohsuanh@outlook.com",
+      "pass": "Qazwsxedc987320."
+    }
+  },
+  "imap": {
+    "host": "outlook.office365.com",
+    "port": 993,
+    "auth": {
+      "user": "pohsuanh@outlook.com",
+      "pass": "Qazwsxedc987320."
+    }
+  }
+}
