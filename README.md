@@ -48,7 +48,7 @@ client <br>
 <img src="https://github.com/jasonroy7dct/mailbag-server/blob/288324d11bdf1b06794f04127d68c5c99c4e790b/images/UpdateContact.png" width="900"/><br/>
 
 * Junk<br>
-<img src="https://github.com/jasonroy7dct/mailbag-server/blob/main/images/Trash.png" width="900"/><br/>
+<img src="https://github.com/jasonroy7dct/mailbag-server/blob/00021b92d4610155eea2deba4fd8569d4deb23c6/images/Junk.png" width="900"/><br/>
 
 * Sent<br>
 <img src="https://github.com/jasonroy7dct/mailbag-server/blob/288324d11bdf1b06794f04127d68c5c99c4e790b/images/Sent.png" width="900"/><br/>
