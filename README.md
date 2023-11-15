@@ -30,31 +30,31 @@ client <br>
 
 ## UI views
 * Welcome Page<br>
-<img src="https://github.com/jasonroy7dct/mailbag-server/blob/main/images/Welcome.png" width="900"/><br/>
+<img src="https://github.com/jasonroy7dct/mailbag-server/blob/288324d11bdf1b06794f04127d68c5c99c4e790b/images/Welcome.png" width="900"/><br/>
 
 * Drafts<br>
-<img src="https://github.com/jasonroy7dct/mailbag-server/blob/main/images/Drafts.png" width="900"/><br/>
+<img src="https://github.com/jasonroy7dct/mailbag-server/blob/288324d11bdf1b06794f04127d68c5c99c4e790b/images/Drafts.png" width="900"/><br/>
 
 * Inbox<br>
-<img src="https://github.com/jasonroy7dct/mailbag-server/blob/main/images/Inbox.png" width="900"/><br/>
+<img src="https://github.com/jasonroy7dct/mailbag-server/blob/288324d11bdf1b06794f04127d68c5c99c4e790b/images/Inbox.png" width="900"/><br/>
 
 * New Message<br>
-<img src="https://github.com/jasonroy7dct/mailbag-server/blob/main/images/Message.png" width="900"/><br/>
+<img src="https://github.com/jasonroy7dct/mailbag-server/blob/288324d11bdf1b06794f04127d68c5c99c4e790b/images/Message.png" width="900"/><br/>
 
 * Contact<br>
 <img src="https://github.com/jasonroy7dct/mailbag-server/blob/dddaca15cd4d49eaf0c8d285c4ab5f55ef5c2e15/images/Contact.png" width="900"/><br/>
 
 * Update Contact<br>
-<img src="https://github.com/jasonroy7dct/mailbag-server/blob/main/images/UpdateContact.png" width="900"/><br/>
+<img src="https://github.com/jasonroy7dct/mailbag-server/blob/288324d11bdf1b06794f04127d68c5c99c4e790b/images/UpdateContact.png" width="900"/><br/>
 
 * Junk<br>
 <img src="https://github.com/jasonroy7dct/mailbag-server/blob/main/images/Trash.png" width="900"/><br/>
 
 * Sent<br>
-<img src="https://github.com/jasonroy7dct/mailbag-server/blob/main/images/Sent.png" width="900"/><br/>
+<img src="https://github.com/jasonroy7dct/mailbag-server/blob/288324d11bdf1b06794f04127d68c5c99c4e790b/images/Sent.png" width="900"/><br/>
 
 * Reply<br>
-<img src="https://github.com/jasonroy7dct/mailbag-server/blob/main/images/Reply.png" width="900"/><br/>
+<img src="https://github.com/jasonroy7dct/mailbag-server/blob/288324d11bdf1b06794f04127d68c5c99c4e790b/images/Reply.png" width="900"/><br/>
 
 ## Reference
 Modern Full-Stack Development Using TypeScript, React, Node.js, Webpack and Docker. by Frank Zammetti
